@@ -68,5 +68,7 @@ outputs/
 
 ##outputs:
 
-
+<img width="963" height="669" alt="Image" src="https://github.com/user-attachments/assets/61fdc24f-9469-464c-9c76-24f3992e949c" />
+<img width="508" height="271" alt="Image" src="https://github.com/user-attachments/assets/4c710628-4543-4bce-bdfa-c59420e18f9e" />
+<img width="830" height="722" alt="Image" src="https://github.com/user-attachments/assets/75840670-ea9e-48d7-b90a-48ee9cee2b67" />
 
